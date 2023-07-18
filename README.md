@@ -6,29 +6,29 @@ This repository serves as a library of all the minigames* I have created/worked 
 
 Author's Note: If you are unfamilier with Minecraft's in-game code system: command blocks act as Minecraft's cmd interface. In Minecraft "code" and "commands" are synonymous.
 
-Boatyo Drift
+Boatyo Drift:
   I rewrote all the command blocks and simplified the "Game Start" process.
 
-Guard the Button Tournament
+Guard the Button Tournament:
   I created the game from the ground up and programmed each command block. I did recieve some cosmetic help designing the arena thanks to a fellow TA.
 
-Hide and Seek
+Hide and Seek:
   I rewrote all the command blocks and simplified the "Game Start" process.
 
-Leaf Run
+Leaf Run:
   I created this game from the ground up building off the foundation that I designed in "Spleef".
 
-Mining Challenge
+Mining Challenge:
   I created this Daily Challenge from the ground up. This world does serve a different purpose than the minigames by acting as a "Daily challenge" that would be played for a whole class period.
 
-Snowball Fight
+Snowball Fight:
   I built this game from the ground up using another TA's concept.
 
-Spleef
+Spleef:
   I created this game from the ground up.
 
-Team Fight
+Team Fight:
   I created this game from the ground up with the help of another TA. Their help was integral to the wiring/sequencing while I focused on the command block logic and player team selection system.
 
-Tnt Run
+Tnt Run:
   I created this game from the ground up.
